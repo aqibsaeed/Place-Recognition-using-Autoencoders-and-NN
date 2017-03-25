@@ -11,7 +11,7 @@ Python 2.7 is used during development and following libraries are required to ru
 
 ### Dataset
 
-The UJIIndoorLoc dataset used for model training and testing, can be downloaded from the following [[link]] (
+The UJIIndoorLoc dataset used for model training and testing, can be downloaded from the following [[link]](
 https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc).
 
 

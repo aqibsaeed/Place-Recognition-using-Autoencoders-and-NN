@@ -1,6 +1,6 @@
 ### Place recognition with WiFi fingerprints using Autoencoders and Neural Networks
 
-Tensorflow implementation of model discussed in the following paper: [Low-effort place recognition with WiFi fingerprints using deep learning] (https://arxiv.org/pdf/1611.02049v1.pdf)
+Tensorflow implementation of model discussed in the following paper: [Low-effort place recognition with WiFi fingerprints using deep learning](https://arxiv.org/pdf/1611.02049v1.pdf)
 
 ### Tools Required
 

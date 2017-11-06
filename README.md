@@ -4,7 +4,7 @@ Tensorflow implementation of model discussed in the following paper: [Low-effort
 
 ### Tools Required
 
-Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
+Python 3 is used during development and following libraries are required to run the code provided in the notebook:
 * Tensorflow
 * Numpy
 * Pandas
